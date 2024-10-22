@@ -1321,4 +1321,4 @@ def NINJA():
 
 with ThreadPool(max_workers=1000) as jjj:
     jjj.submit(NINJA)
-    jjj.submit(main)
+    jjj.submit(min)
